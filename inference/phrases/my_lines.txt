@@ -1,2 +1,0 @@
-Welcome to the QWPitch and QWGAN pipeline demo.
-This repository now focuses on fast training and clean inference.
