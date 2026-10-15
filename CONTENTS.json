@@ -1,0 +1,178 @@
+{
+  "project": "QuayeWorks PS4 Payload Sender",
+  "version": "1.0.0",
+  "tests_passed": 30,
+  "note": "Hashes cover source and assets; this manifest and the generated complete-source listing exclude themselves.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 46,
+      "sha256": "3a209ae003b71628e71981f6a00296c644864ee203d362e1b1e6cdd1e3170886"
+    },
+    {
+      "path": "Build_Windows.bat",
+      "bytes": 407,
+      "sha256": "a7bfccf685751b2065e3d02c03f8fc8a3317906ca4e2328f09af0db5e5c332c6"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1067,
+      "sha256": "da4b3c7eea95d1a5d37d5015e3bfe44c1252ee7af28a414cfb4730493c295b9d"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1204,
+      "sha256": "a678c8c39d5521b0af29ea38a4aff6c12921a1c1f7f9eb018d81a0d9b1f6bb85"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8021,
+      "sha256": "4eb5c60235d55ea57deedd35db4d1c4294a0631bc11e85033470aef75cfafcee"
+    },
+    {
+      "path": "Start_Windows.bat",
+      "bytes": 269,
+      "sha256": "bfac4f00bf3df47c92fd085a525c4a928a77df32a03ab7760ff1b098dd324c94"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 3836,
+      "sha256": "2348ec0a13d2b187e6d4516c947f98ac02a57a25aaef5cf074b70da79fa3e1d9"
+    },
+    {
+      "path": "assets/app.ico",
+      "bytes": 24398,
+      "sha256": "2a90314db7f53db57970caa10c9075a7d9e2abeb055d8ae5a694553335f561b0"
+    },
+    {
+      "path": "assets/app.png",
+      "bytes": 6167,
+      "sha256": "0ef3d20fbd1b59928d1802446fac00b1f97ba0ecf59d298bb48717179da0d1e8"
+    },
+    {
+      "path": "assets/chevron-dark.png",
+      "bytes": 560,
+      "sha256": "94d7510d1754b01d16dc8ed063a2d855fbb881044ac2ad7895a27b0efe4158be"
+    },
+    {
+      "path": "assets/chevron-light.png",
+      "bytes": 487,
+      "sha256": "51fcbb5269f652b12cb83bf492755a3f2e989bb58c3dc9cb9775f42856a3ed86"
+    },
+    {
+      "path": "assets/up-dark.png",
+      "bytes": 552,
+      "sha256": "8633f5194693eea09eaafbaa99a0d9d5ec378546bc507efb06d242a8ef346633"
+    },
+    {
+      "path": "assets/up-light.png",
+      "bytes": 496,
+      "sha256": "1ef780bbddcad2a03e68fe59929b1fa9e7c2ec2c800f4e69540672465b76567f"
+    },
+    {
+      "path": "bootstrap.py",
+      "bytes": 2018,
+      "sha256": "b5f47c976301e6657275e22fb85ab7a5c63ecae999dc7f43d84597dc046710d5"
+    },
+    {
+      "path": "main.py",
+      "bytes": 93,
+      "sha256": "d1776a9dee522647322cf324ce15735b9d696193ffd0f64b2c3937981db689cd"
+    },
+    {
+      "path": "payload_sender/__init__.py",
+      "bytes": 60,
+      "sha256": "40444fcf4040870ae241c0786802758346c667ea1705fb962437e307135d6e94"
+    },
+    {
+      "path": "payload_sender/__main__.py",
+      "bytes": 48,
+      "sha256": "a67c172046323b0efcafe92cb83abc266d5dd4bc931d9312cde1b7bed50643db"
+    },
+    {
+      "path": "payload_sender/app.py",
+      "bytes": 3439,
+      "sha256": "44fc9b3311f5dfdffcdcbce10d7d0a999c6963ef1bc7a8fd83ecf1ca5af61b27"
+    },
+    {
+      "path": "payload_sender/core.py",
+      "bytes": 10268,
+      "sha256": "88171f67ce497b27a91078331218242e1185b35602f6f82ab8ce19abd10f723c"
+    },
+    {
+      "path": "payload_sender/gui.py",
+      "bytes": 33734,
+      "sha256": "8bba24546bf765a2e22594207484dbc8b7c0b4f0f9ba52cc3b186a01ef27309d"
+    },
+    {
+      "path": "payload_sender/settings.py",
+      "bytes": 3640,
+      "sha256": "3cca84567e81f1d4bc58b41db272b1686adc469eb8b9094979d19ccf262dcc5a"
+    },
+    {
+      "path": "payload_sender/theme.py",
+      "bytes": 10769,
+      "sha256": "1fcd48f7b0bf9452600f79436ddb849fca1093a9e6ed6a10187120694c3e9ece"
+    },
+    {
+      "path": "payload_sender/workers.py",
+      "bytes": 1329,
+      "sha256": "165de75bd48b36c611dd20e2deb7499778c0d7e9d625a6ef3910f8653334cd43"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 27,
+      "sha256": "e16dff7f823f0121441ae1e78e9b50b706a2635dfbbe7244e03d4395a11c067c"
+    },
+    {
+      "path": "screenshots/dark.png",
+      "bytes": 112169,
+      "sha256": "1d5a8c4f42efca0a907346ed244862554cd57015ae0ddd98a1406dbb41c0bf6a"
+    },
+    {
+      "path": "screenshots/history.png",
+      "bytes": 120443,
+      "sha256": "3913d4cc0e619de15dc783fca79823b463530301f6a0cd1914d535f595cc6087"
+    },
+    {
+      "path": "screenshots/light.png",
+      "bytes": 111801,
+      "sha256": "c638e0f2d26813d71ec439320f20d6651fa9effb4d1734eb7b95ec1a988489cf"
+    },
+    {
+      "path": "screenshots/loopback-transfer.png",
+      "bytes": 134350,
+      "sha256": "03e74a702d01d08c38b25ae68735c059274e62b022cff4627ab6d8df296d9c8f"
+    },
+    {
+      "path": "tests/__init__.py",
+      "bytes": 47,
+      "sha256": "50b72835956b9932a1265b35315e8114b3ea577d8b5b7b813c891c5cf71b1104"
+    },
+    {
+      "path": "tests/support.py",
+      "bytes": 1856,
+      "sha256": "6094ed872d76467605cbfc91470e3541ff5c7a5d6f93e7ccc96a661f53e5db4e"
+    },
+    {
+      "path": "tests/test_core.py",
+      "bytes": 10165,
+      "sha256": "8c5b7d43e45c9bb5336cd03edea3fa0085355febef98d48de1e9ae1060925a3d"
+    },
+    {
+      "path": "tests/test_gui.py",
+      "bytes": 8147,
+      "sha256": "dd9c0672d8e6501dab4a45e09e2e2cf1a0310f62b3c53d1d5b8136719142b8c3"
+    },
+    {
+      "path": "tests/test_settings.py",
+      "bytes": 2136,
+      "sha256": "fcee993aabf17f2a94a320ac10cce7c2d4642d5006332f0c7df4855b4366a879"
+    },
+    {
+      "path": "tools/build.py",
+      "bytes": 2140,
+      "sha256": "5309b5095268c51fba063d70654727b64ccb29a9378e5173c5e6b88d2570bd0e"
+    }
+  ]
+}
